@@ -1,6 +1,6 @@
-# Title
+# Chatbot
 
-Simple (or clever and funny?) description
+A program that can ask and respond to the user.
 
 ## Table of Contents
 
@@ -12,14 +12,14 @@ Simple (or clever and funny?) description
 
 ## Background
 
-This is why this application exists.
+This application exists because of it's
 
 ## Install
 
-These are the steps to setup your local environment to run this application.
+In order to run the application, you have to press the Run button.
 
 ## Usage
 
-These are the steps to use the application or interact with it.
+In the console, the user can type in answers or questions for the Chatbot to respond to.
 
 ### Any optional sections
