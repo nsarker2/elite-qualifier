@@ -12,7 +12,7 @@ A program that can ask and respond to the user.
 
 ## Background
 
-This application exists because of it's
+This application exists because of it's.
 
 ## Install
 
